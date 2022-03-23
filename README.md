@@ -1,6 +1,6 @@
 #App Todo (agenda de tareas)
 
-proyecto en javascript, interatuando con el DOM, usando arreglos y POO
+proyecto en javascript, interatuando con el DOM, usando arreglos, POO y localStorage para almacenar informacion.
 
 ### Notas
 
