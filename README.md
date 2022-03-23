@@ -1,6 +1,6 @@
-#Webpack Starter
+#App Todo (agenda de tareas)
 
-este es el proyecto inicial para crear aplicaciones utilizando Webpack
+proyecto en javascript, interatuando con el DOM, usando arreglos y POO
 
 ### Notas
 
